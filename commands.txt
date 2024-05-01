@@ -44,6 +44,8 @@ git status
 git log
 	- displays all the commits that were made
 	
-git log --oneline
+git log --one line
 	- condensed version of the git log
 
+git clone
+	- creating a copy of a remote repo on your local repo.
